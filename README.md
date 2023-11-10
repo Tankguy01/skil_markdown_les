@@ -1,5 +1,5 @@
 # Pasta carbonara
-file:///C:/Users/naelo/Downloads/pasta-carbonara_recept.jpg
+![Pasta carbonara](plaatje/pasta-carbonara_recept.jpg)
 
 
 # BENODIGHEDEN
